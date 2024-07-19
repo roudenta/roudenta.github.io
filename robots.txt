@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://roudenta.github.io/sitemap
+Sitemap: https://roudenta.github.io/app/sitemap
+Sitemap: https://roudenta.github.io/assets/sitemap
+Sitemap: https://roudenta.github.io/css/sitemap
+Sitemap: https://roudenta.github.io/includes/sitemap
+Sitemap: https://roudenta.github.io/item/sitemap
+Sitemap: https://roudenta.github.io/src/sitemap
